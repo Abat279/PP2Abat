@@ -1,22 +1,37 @@
-x = 5
-y = "John"
+x = 10
+y = "Apple"
 print(x)
 print(y)
+print(type(x))
+print(type(y))
 
-x = 4       # x is of type int
-x = "Sally" # x is now of type str
-print(x)
-x = str(3)    # x will be '3'
-y = int(3)    # y will be 3
-z = float(3)  # z will be 3.0
-x = 5
-y = "John"
-print(type(x))
-print(type(y))
-x = 5
-y = "John"
-print(type(x))
-print(type(y))
-a = 4
-A = "Sally"
-#A will not overwrite a
+a = 7
+print(type(a))
+
+a = "Seven"
+print(a)
+print(type(a))
+
+x = int(5.8)     # 5
+y = str(10)      # "10"
+z = float(2)     # 2.0
+
+print(x, y, z)
+print(type(x), type(y), type(z))
+
+
+b = 3
+B = "Three"
+
+print(b)
+print(B)
+
+
+
+name = "John"
+age = 25
+height = 1.75
+
+print(type(name))
+print(type(age))
+print(type(height))
