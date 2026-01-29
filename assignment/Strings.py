@@ -1,17 +1,17 @@
-a = """Lorem ipsum dolor sit amet,
-consectetur adipiscing elit,
-sed do eiusmod tempor incididunt
-ut labore et dolore magna aliqua."""
+a = """Python programming is easy,
+it is powerful,
+and very popular."""
 print(a)
 
-a = "Hello, World!"
-print(a[1])
 
-for x in "banana":
-  print(x)
+a = "Programming"
+print(a[3])
 
-a = "Hello, World!"
+a = "Computer"
 print(len(a))
 
-txt = "The best things in life are free!"
-print("free" in txt)
+txt = "Learning Python is fun"
+print("Python" in txt)
+
+name = "Almaty"
+print(len(name))
