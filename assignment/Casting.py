@@ -1,19 +1,26 @@
+x = str("s1")   # 's1'
+y = str(2)      # '2'
+z = str(3.0)    # '3.0'
+
+print(x)
+print(y)
+print(z)
+
+b = str(3.5)
+print(b)
+
 x = int(1)
 y = int(2.8)
 z = int("3")
+
 print(x)
 print(y)
 print(z)
 
-x = float(1)
-y = float(2.8)
-z = float("3")
-w = float("4.2")
-print(x)
-print(y)
-print(z)
-print(w)
 
-x = str("s1") # x will be 's1'
-y = str(2)    # y will be '2'
-z = str(3.0)  # z will be '3.0'
+
+a = float(7)
+print(a)
+
+b = str(3.5)
+print(b)
