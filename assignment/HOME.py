@@ -1,0 +1,6 @@
+print("Hello, World!")
+print("Salem. alem!")
+print("Astana")
+print("Atyrau")
+print("Judo")
+print("Tempo")
