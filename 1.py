@@ -1,5 +1,9 @@
-a = int(input())
-c = int(input())
+n = int(input())
 
-print(a+c)
+numbers = input().split()
+mx = int(numbers[0])
+for x in numbers:
+    if int(x) > mx:
+        mx = int(x)
+print(mx)
 
