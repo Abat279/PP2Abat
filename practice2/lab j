@@ -1,0 +1,9 @@
+n = int(input())
+
+nop = set()
+
+for i in range(n):
+    name = input().strip()
+    nop.add(name)
+
+print(len(nop))
