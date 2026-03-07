@@ -7,3 +7,4 @@ n = int(input())
 
 for number in bolinetin(n):
     print(number, end=" ")
+    

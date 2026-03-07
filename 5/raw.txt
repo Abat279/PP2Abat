@@ -1,0 +1,35 @@
+Store: Magnum
+Date: 12/03/2024
+Time: 18:45
+Milk 450.00
+Bread 200.00
+Apple 600.00
+Payment: Card
+
+Store: Small Market
+Date: 15/03/2024
+Time: 10:20
+Coffee 1200.00
+Sugar 350.00
+Payment: Cash
+
+Store: SuperShop
+Date: 18/03/2024
+Time: 13:10
+Tea 500.00
+Cookies 750.00
+Payment: Card
+
+Store: MiniMart
+Date: 20/03/2024
+Time: 09:30
+Water 150.00
+Juice 400.00
+Payment: Cash
+
+Store: CityMarket
+Date: 25/03/2024
+Time: 21:15
+Chocolate 800.00
+IceCream 950.00
+Payment: Card

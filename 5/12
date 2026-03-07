@@ -1,0 +1,4 @@
+import re
+text = input()
+ter = re.findall(r"\d{2,}",text)
+print(" ".join(ter))
