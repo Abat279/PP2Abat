@@ -1,0 +1,7 @@
+def sa(n):
+    if n == 0:
+        return
+    print(n)
+    sa(n-1)
+
+sa(3)

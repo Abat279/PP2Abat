@@ -1,0 +1,8 @@
+def tek(a):
+    if a % 2 == 0:
+        print("Even")
+    else:
+        print ("Odd")
+
+a = int(input())
+print(tek(a))

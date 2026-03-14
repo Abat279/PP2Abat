@@ -1,0 +1,5 @@
+nums = [5,8,3,12,7,6] 
+for n in nums:
+    if n % 2 == 0:
+        print(n)
+     

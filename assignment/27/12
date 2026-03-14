@@ -1,0 +1,10 @@
+def  ass(nums):
+    maximum = nums[0]
+    for i in nums:
+        if i > maximum:
+            maximum = i
+
+    return maximum
+
+nums = [4, 7, 1, 9, 3]
+print(ass(nums))
